@@ -114,8 +114,8 @@ No additional software or server is required.
 
 ## Project Links
 
-- **Live Website:** [Add your published GitHub Pages URL here]
-- **GitHub Repository:** [Add your GitHub repository URL here]
+- **Live Website:** [https://aishwarya-ml204.github.io/ewaste-smart-system/]
+- **GitHub Repository:** [https://github.com/aishwarya-ml204/ewaste-smart-system]
 
 ## Conclusion
 
